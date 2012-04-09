@@ -1,0 +1,13 @@
+  I tried hacking with the MaceTech ShiftBrite LED modules, using the demo code.
+I didn't have much success hacking with it, because I hadn't worked with C in a while.
+The demo code lacked comments, and I lacked suffucicient insight at the time.
+
+  As I've spent isome more time with C, and hacking on the ShiftBrites, I wanted
+to make it easier for those looking for working examples. This repository is a
+way to put my commented code out on the web for folks to find. Hopefully a few
+folks will find this useful, and it will get them playing with blinky lights
+much more quickly.
+
+      Let me know if there are questions, or suggestions!
+
+         Zonker     consoleteam@gmail.com
